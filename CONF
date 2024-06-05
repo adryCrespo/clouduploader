@@ -1,0 +1,4 @@
+#!/bin/bash
+
+CONTAINER=aaa
+STORAGE_ACCOUNT=alja
